@@ -26,6 +26,8 @@ I'm an **ambitious and innovative Computer Science student** at Belgium Campus i
 
 - 🛡️ Cybersecurity Essentials
 - 📊 IoT Fundamentals: Big Data & Analytics
+- 🌐 HTML5 & CSS3 Complete Course: Build Websites like a Pro
+- 🧪 GitHub Labs Certification
 
 ---
 
