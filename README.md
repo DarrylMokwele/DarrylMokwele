@@ -10,6 +10,7 @@ I'm an **ambitious and innovative Computer Science student** at Belgium Campus i
 - 🗃️ **Database Design** — skilled in MySQL and project-level planning.
 - 📦 **System Design** — experience with logistics systems and academic venue layouts.
 - 🎓 **Academic Tutor & Leader** — member of the Campus Leadership Council (CLC) and former high school prefect and class rep.
+- 🕹️ **Game Development** — designing unique game mechanics and experiences; active in game jams and creative coding.
 
 ---
 
